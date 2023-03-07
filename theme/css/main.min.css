@@ -126,7 +126,7 @@ body {
   min-width: 320px;
   position: relative;
   line-height: 1.75;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   overflow-x: hidden;
   opacity: 1;
   margin: 0;
@@ -216,7 +216,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 18px;
   line-height: 150%;
   color: #737373;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   margin-bottom: 36px;
 }
 
@@ -253,7 +253,7 @@ header .my-container {
 
 header .h-adap-mnu {
   display: none;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-size: 16px;
   line-height: 19px;
   color: #313131;
@@ -377,7 +377,7 @@ header .h-mnu li.h-with-sub .hws-ul li a {
   display: block;
   font-size: 13px;
   line-height: 13px;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   color: #009846;
   font-weight: bold;
   position: relative;
@@ -408,7 +408,7 @@ header .h-mnu li a {
   padding-left: 6px;
   padding-right: 6px;
   position: relative;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   padding-bottom: 12px;
 }
 
@@ -584,7 +584,7 @@ header .h-phone:hover path {
   margin: 0;
   font-size: 13px;
   line-height: 21px;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   position: relative;
   padding-left: 60px;
   margin-bottom: 39px;
@@ -719,14 +719,14 @@ header .h-phone:hover path {
   margin: 0 auto;
   font-size: 14px;
   line-height: 21px;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   max-width: 588.32px;
   margin-bottom: 56px;
 }
 
 .s-our-services .sos-p span {
   color: #009846;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
 }
 
 .s-our-services .my-container {
@@ -830,7 +830,7 @@ header .h-phone:hover path {
   display: block;
   font-size: 18px;
   line-height: 21.6px;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   color: #1E2D26;
   min-height: 44px;
   display: -webkit-box;
@@ -928,7 +928,7 @@ header .h-phone:hover path {
   margin: 0;
   font-size: 18px;
   line-height: 27px;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   color: #1E2D26;
 }
 
@@ -983,7 +983,7 @@ header .h-phone:hover path {
 
 .s-four .sf-items .sf-itm .sfi-descr {
   display: block;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-size: 14px;
   line-height: 150%;
   color: #1E2D26;
@@ -1033,7 +1033,7 @@ header .h-phone:hover path {
 
 .s-blog .sb-items.my-container .sb-itm .sb-i-descr {
   display: inline-block;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-size: 24px;
   line-height: 141%;
   color: #009846;
@@ -1072,7 +1072,7 @@ footer .ft-first .ftf-p {
   margin: 0;
   font-size: 14px;
   line-height: 21px;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   color: #000;
   padding-left: 2px;
 }
@@ -1087,7 +1087,7 @@ footer .ft-second .fts-hdr {
   display: block;
   font-size: 16px;
   line-height: 150%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   color: #1E2D26;
   margin-bottom: 15px;
 }
@@ -1095,7 +1095,7 @@ footer .ft-second .fts-hdr {
 footer .ft-second .fts-line {
   font-size: 12px;
   line-height: 310%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   color: rgba(30, 45, 38, 0.8);
   display: block;
 }
@@ -1168,7 +1168,7 @@ footer .ft-third .ftt-rdy {
 
 footer .ft-third .ftt-rdy .ftt-rd-1 {
   display: block;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-weight: bold;
   color: #009846;
   font-size: 14px;
@@ -1192,7 +1192,7 @@ footer .ft-third .ftt-rdy .ftt-rd-2 {
   font-size: 11px;
   line-height: 140%;
   color: rgba(30, 45, 38, 0.5);
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   display: block;
 }
 
@@ -1214,7 +1214,7 @@ footer .ft-third .ftt-hdr {
   display: block;
   font-size: 16px;
   line-height: 150%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   color: #1E2D26;
   margin-bottom: 26px;
 }
@@ -1235,7 +1235,7 @@ footer .ft-third .ftt-inp input {
   font-size: 14px;
   line-height: 28px;
   height: 41px;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   border: 1px solid #DCDCDC;
   border-radius: 2px;
   padding-top: 7px;
@@ -1286,7 +1286,7 @@ footer .ft-third .btn {
   color: #009846;
   font-size: 24px;
   line-height: 141%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
 }
 
 .s-br ul li a span {
@@ -1362,7 +1362,7 @@ footer .ft-third .btn {
 
 .sb-message .sbm-txt .sbm-reviews .sbm-rev .sbm-r-name {
   display: block;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-weight: bold;
   color: #000;
   font-size: 12px;
@@ -1375,7 +1375,7 @@ footer .ft-third .btn {
   color: rgba(0, 0, 0, 0.3);
   font-size: 11px;
   line-height: 12px;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   margin-bottom: 7px;
 }
 
@@ -1390,7 +1390,7 @@ footer .ft-third .btn {
   font-size: 14px;
   line-height: 16px;
   color: #000000;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-weight: bold;
   margin-bottom: 26px;
 }
@@ -1400,7 +1400,7 @@ footer .ft-third .btn {
   font-size: 12px;
   line-height: 14px;
   color: #009846;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-weight: bold;
   padding-top: 8px;
   padding-bottom: 21px;
@@ -1443,7 +1443,7 @@ footer .ft-third .btn {
   color: #000;
   font-size: 12px;
   line-height: 14px;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
 }
 
 .sb-message .sbm-txt .sbm-form .sbm-inp input::-webkit-input-placeholder,
@@ -1549,7 +1549,7 @@ footer .ft-third .btn {
   font-size: 12px;
   line-height: 12px;
   color: #fff;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-weight: bold;
   background: #9BAEB5;
   border-radius: 36px;
@@ -1563,7 +1563,7 @@ footer .ft-third .btn {
 .s-blog-two .sbt-items .sbt-itm .sbt-descr {
   font-size: 18px;
   line-height: 181%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-weight: bold;
   color: #1E2D26;
   text-transform: uppercase;
@@ -1638,7 +1638,7 @@ footer .ft-third .btn {
   color: #737373;
   font-size: 18px;
   line-height: 150%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   position: relative;
   top: 2px;
   margin-bottom: 20px;
@@ -1695,7 +1695,7 @@ footer .ft-third .btn {
   font-size: 12px;
   line-height: 12px;
   color: #fff;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-weight: bold;
   background: #9BAEB5;
   border-radius: 36px;
@@ -1709,7 +1709,7 @@ footer .ft-third .btn {
 .s-blog-mas .sb-item .sbi-top .sbi-t-descr {
   font-size: 18px;
   line-height: 181%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-weight: bold;
   color: #1E2D26;
   text-transform: uppercase;
@@ -1803,7 +1803,7 @@ footer .ft-third .btn {
   display: block;
   font-size: 14px;
   line-height: 130%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   color: #1E2D26;
   margin-bottom: 24px;
   min-height: 54px;
@@ -1823,7 +1823,7 @@ footer .ft-third .btn {
   color: rgba(115, 115, 115, 0.7);
   font-size: 12px;
   line-height: 150%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   margin-right: 8.33px;
 }
 
@@ -1905,7 +1905,7 @@ footer .ft-third .btn {
   color: #47AC57;
   font-size: 90px;
   line-height: 130%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-weight: bold;
   font-style: italic;
   margin-right: 15px;
@@ -1914,7 +1914,7 @@ footer .ft-third .btn {
 .s-about .sa-right .sa-warranty .saw-txt {
   font-size: 18px;
   line-height: 117.5%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-weight: bold;
   color: #47AC57;
 }
@@ -1923,7 +1923,7 @@ footer .ft-third .btn {
   width: 100%;
   font-size: 16px;
   line-height: 130%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-weight: bold;
   color: #ABABAB;
   text-align: center;
@@ -1953,7 +1953,7 @@ footer .ft-third .btn {
   color: #1E2D26;
   font-size: 14px;
   line-height: 130%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   margin-bottom: 40px;
 }
 
@@ -1979,7 +1979,7 @@ footer .ft-third .btn {
   font-size: 14px;
   line-height: 150%;
   margin: 0;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-style: italic;
 }
 
@@ -1999,7 +1999,7 @@ footer .ft-third .btn {
   line-height: 130%;
   color: #009846;
   font-weight: bold;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   position: relative;
 }
 
@@ -2088,7 +2088,7 @@ footer .ft-third .btn {
   font-size: 24px;
   line-height: 141%;
   color: #1E2D26;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   margin-bottom: 26px;
 }
 
@@ -2109,7 +2109,7 @@ footer .ft-third .btn {
   display: block;
   font-size: 24px;
   line-height: 28px;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   font-weight: bold;
   color: #009846;
   position: relative;
@@ -2131,7 +2131,7 @@ footer .ft-third .btn {
   display: block;
   font-size: 14px;
   line-height: 200%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   color: rgba(30, 45, 38, 0.5);
   margin-bottom: 9px;
 }
@@ -2196,7 +2196,7 @@ footer .ft-third .btn {
   outline: none;
   font-size: 14px;
   line-height: 200%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   color: #1E2D26;
   padding-top: 14px;
   padding-bottom: 10px;
@@ -2346,7 +2346,7 @@ footer .ft-third .btn {
 .s-services .ss-btm .ssb-itm .ssb-price-block p {
   font-size: 18px;
   line-height: 150%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
 }
 
 .s-services .ss-btm .ssb-itm .ssb-price-block p span {
@@ -2360,7 +2360,7 @@ footer .ft-third .btn {
   font-size: 18px;
   line-height: 130%;
   font-weight: bold;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   color: #1E2D26;
   margin-bottom: 9px;
 }
@@ -2369,7 +2369,7 @@ footer .ft-third .btn {
   margin: 0;
   font-size: 14px;
   line-height: 130%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   margin-bottom: 30px;
   color: #1E2D26;
 }
@@ -2459,7 +2459,7 @@ footer .ft-third .btn {
   display: block;
   font-size: 18px;
   line-height: 130%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   color: #1E2D26;
 }
 
@@ -2517,7 +2517,7 @@ footer .ft-third .btn {
   margin: 0;
   font-size: 24px;
   line-height: 150%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
 }
 
 .s-services .ss-top .sst-txt p a {
@@ -2544,7 +2544,7 @@ footer .ft-third .btn {
   margin: 0;
   font-size: 14px;
   line-height: 130%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   color: #1E2D26;
   margin-bottom: 30px;
 }
@@ -2604,7 +2604,7 @@ footer .ft-third .btn {
 .s-services .ss-middle .ssm-items .ssm-itm .ssm-ul li {
   font-size: 14px;
   line-height: 130%;
-  font-family: "FiraSans-Light", sans-serif;
+  font-family: "FiraSans-Regular", sans-serif;
   color: #1E2D26;
   margin-bottom: 6px;
   padding-left: 9px;
@@ -3059,7 +3059,7 @@ footer .ft-third .btn {
     display: inline-block;
     font-size: 18px;
     line-height: 21px;
-    font-family: "FiraSans-Light", sans-serif;
+    font-family: "FiraSans-Regular", sans-serif;
     letter-spacing: 0.1px;
     padding-bottom: 7.5px;
     padding-top: 7.5px;
